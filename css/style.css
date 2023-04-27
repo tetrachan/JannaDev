@@ -1963,6 +1963,12 @@ button.mfp-close {
   text-transform: uppercase;
 }
 
+.mtext-114 {
+  font-family: Lato;
+  font-size: 24px;
+  line-height: 1.333333;
+}
+
 
 /*//////////////////////////////////////////////////////////////////
 [ L-Text >= 26 ]*/
@@ -1995,8 +2001,8 @@ button.mfp-close {
 }
 
 .ltext-105 {
-  font-family: Lato-Regular;
-  font-size: 50px;
+  font-family: Lato-Thin;
+  font-size: 60px;
   line-height: 1.1;
   text-transform: uppercase;
 }
@@ -2673,7 +2679,9 @@ button.mfp-close {
 .focus-in0:focus:-ms-input-placeholder { color:transparent; }
 
 
-
+a {
+  text-decoration: none;
+}
 
 /*//////////////////////////////////////////////////////////////////
 [ Hover ]*/
